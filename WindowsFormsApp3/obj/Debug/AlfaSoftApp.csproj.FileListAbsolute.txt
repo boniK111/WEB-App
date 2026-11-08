@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\AlfaSoftApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\AlfaSoftApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\AlfaSoftApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\AlfaSoft.849431F1.Up2Date
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\AlfaSoftApp.MainForm.resources
